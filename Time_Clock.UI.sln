@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time_Clock.UI", "Time_Clock.UI\Time_Clock.UI.csproj", "{280A7920-010D-42BB-A5B7-9AE95E69DBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280A7920-010D-42BB-A5B7-9AE95E69DBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280A7920-010D-42BB-A5B7-9AE95E69DBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280A7920-010D-42BB-A5B7-9AE95E69DBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280A7920-010D-42BB-A5B7-9AE95E69DBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97215C82-85FF-425F-84AA-1EBE30304A67}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\obj\Debug\Time_Clock.UI.csproj.AssemblyReference.cache
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\obj\Debug\Time_Clock.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\obj\Debug\Time_Clock.UI.frmTimeClock.resources
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\obj\Debug\Time_Clock.UI.Properties.Resources.resources
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\obj\Debug\Time_Clock.UI.csproj.GenerateResource.cache
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\obj\Debug\Time_Clock.UI.csproj.CoreCompileInputs.cache
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\bin\Debug\Time_Clock.UI.exe.config
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\bin\Debug\Time_Clock.UI.exe
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\bin\Debug\Time_Clock.UI.pdb
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\obj\Debug\Time_Clock.UI.exe
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\obj\Debug\Time_Clock.UI.pdb
+C:\Users\sfurl\source\repos\Time_Clock.UI\Time_Clock.UI\obj\Debug\Time_Clock.UI.frmPasswordChange.resources
